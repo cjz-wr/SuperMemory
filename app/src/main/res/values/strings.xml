@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">supermemory</string>
+    <string name="title_hint">输入标题…</string>
+    <string name="content_hint">开始记录…</string>
+    <string name="save_button">保存笔记</string>
+    <string name="set_alarm">设置提醒</string>
+    <string name="alarm_set">已设置：%1$s</string>
+</resources>
